@@ -10,4 +10,5 @@
  - nastavení uživatelského účtu (změna hesla apod.)
  - uživatelský manuál
    
-![todolist](https://github.com/user-attachments/assets/52982fd8-566c-407f-bec3-d21d43fee226)
+
+![todolist](https://github.com/user-attachments/assets/c3bcb9aa-31af-4d29-ae66-0b0629164a3e)
